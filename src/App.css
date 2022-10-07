@@ -1,0 +1,12 @@
+html {
+  box-sizing: border-box;
+  font-family: PingFangTC, "Helvetica Neue", Helvetica, Arial,
+    "Microsoft JhengHei", sans-serif;
+}
+
+body {
+  font-weight: 300;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0px;
+}
